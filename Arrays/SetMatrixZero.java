@@ -147,6 +147,8 @@ public class SetMatrixZero {
 
 
 
+
+
 // Print matrix nicely
 // System.out.println(
 //             Arrays.stream(matrix)
