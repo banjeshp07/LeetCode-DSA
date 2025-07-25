@@ -1,4 +1,4 @@
-package Arrays;
+    package Arrays;
 public class FindMajorityElement {
     public static int majorityElement(int[] nums) {
         int n = nums.length;
